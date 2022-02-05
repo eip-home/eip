@@ -8,11 +8,11 @@ Find [here](https://tinyurl.com/eip4coinrg) a presentation about EIP.
 
 ### Special Interest Group on EIP
 
-The mailling list of the Interest Group for EIP is eip@cnit.it
+The mailling list of the Interest Group for EIP is eip@postino.cnit.it. Subscribe to the eip mailing list and access the list archives [here](http://postino.cnit.it/cgi-bin/mailman/listinfo/eip).
 
 The wiki of the EIP group is [here](https://github.com/eip-home/eip/wiki/Wiki-for-EIP)
 
-### EIP draft specifications
+### EIP documents 
 
 See the draft specifications [here](https://github.com/eip-home/eip/wiki/specifications)
 
