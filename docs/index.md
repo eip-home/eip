@@ -21,9 +21,9 @@ Find [here](https://tinyurl.com/eip4coinrg) a presentation about EIP. This prese
 
 An informal Special Interest Group is active to discuss EIP use cases, architecture and protocol specifications. A mailing list and a wiki have been setup.
 
-The mailing list of the interest group is [eip@postino.cnit.it](mailto:eip@postino.cnit.it). Subscribe to the mailing list and access the list archives [here](http://postino.cnit.it/cgi-bin/mailman/listinfo/eip).
+The mailing list address is [eip@postino.cnit.it](mailto:eip@postino.cnit.it). Subscribe to the mailing list and access the list archives [here](http://postino.cnit.it/cgi-bin/mailman/listinfo/eip).
 
-The wiki of is available [here](https://github.com/eip-home/eip/wiki/Wiki-for-EIP)
+The wiki is available [here](https://github.com/eip-home/eip/wiki/Wiki-for-EIP)
 
 ### EIP documentation 
 
@@ -46,9 +46,7 @@ The basic EIP prototype is a docker container which includes:
 ![basic-EIP-testbed.png](<./images/basic-EIP-testbed.png>)
 ---> 
 
-
 <center><img src="./images/basic-EIP-testbed.png" width="610"></center> 
-
 
 A more advanced testbed is a Virtual Machine (available as an .ova image for Virtualbox and VMware hypervisors). In the Virtual Machine it is possible to deploy an emulated network with 8 routers and 15 hosts. The 8 routers emulate an IPv6 backbone with dynamic routing (ISIS protocol). Routers and hosts in the emulated network can execute the EIP prototype as needed to demonstrate complex scenarios involving several nodes.
 
