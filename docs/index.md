@@ -31,7 +31,10 @@ The basic EIP prototype is a docker container which includes:
 <!--- img source :
       https://docs.google.com/drawings/d/10RUFpz28TDxJ-PgvMalNpm3tdtjR0NooK93X4GYNeI8 
       export the slide as .png, and upload in docs/images with the same name --->
+
+<!---
 <center><img src="./images/basic-EIP-testbed.png" width="610"></center>
+---> 
 
 <!---
 ![basic-EIP-testbed.png](<./images/basic-EIP-testbed.png>)
@@ -43,7 +46,9 @@ A more advanced testbed is a Virtual Machine (available as an .ova image for Vir
       https://www.draw.io/?page-id=J9w6RV8opG_2WJOp4QM1&scale=auto#G1BnzbsuEpvA3uBNfi-l9xWqG1N0aWO_Nh
       export the slide as .png, and upload in docs/images with the same name --->
 
+<!---
 <center><img src="./images/hpsr2020-tutorial-with-control-plane.png" width="610"></center>
+---> 
 
 
 
