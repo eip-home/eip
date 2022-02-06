@@ -57,7 +57,3 @@ A more advanced testbed is a Virtual Machine (available as an .ova image for Vir
 <center><img src="./images/hpsr2020-tutorial-with-control-plane.png" width="610"></center>
 
 
-### Github page
-
-https://github.com/eip-home/eip/
-
