@@ -13,7 +13,7 @@ EIP provides a common solution which can be tailored for the different use cases
 &h=447>)
 --->
 
-![EIP use cases](<https://docs.google.com/drawings/d/e/2PACX-1vSltSccUQoU0ttVh_yf-werFMzx65vlne-uAJlZpjDent1-g9Yr9qoOCYB0EkhzJ3ZFi2ANvw6_m7P4/pub?w=513&h=357>)
+![EIP use cases](<https://docs.google.com/drawings/d/e/2PACX-1vSltSccUQoU0ttVh_yf-werFMzx65vlne-uAJlZpjDent1-g9Yr9qoOCYB0EkhzJ3ZFi2ANvw6_m7P4/pub?w=449&h=313>)
 
 
 ### Special Interest Group on EIP
