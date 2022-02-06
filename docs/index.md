@@ -19,9 +19,11 @@ Find [here](https://tinyurl.com/eip4coinrg) a presentation about EIP. This prese
 
 ### Special Interest Group on EIP
 
-The mailling list of the Interest Group for EIP is [eip@postino.cnit.it](mailto:eip@postino.cnit.it). Subscribe to the mailing list and access the list archives [here](http://postino.cnit.it/cgi-bin/mailman/listinfo/eip).
+An informal Special Interest Group is active to discuss EIP use cases, architecture and protocol specifications. A mailing list and a wiki have been setup.
 
-The wiki of the EIP group is [here](https://github.com/eip-home/eip/wiki/Wiki-for-EIP)
+The mailing list of the interest group is [eip@postino.cnit.it](mailto:eip@postino.cnit.it). Subscribe to the mailing list and access the list archives [here](http://postino.cnit.it/cgi-bin/mailman/listinfo/eip).
+
+The wiki of is available [here](https://github.com/eip-home/eip/wiki/Wiki-for-EIP)
 
 ### EIP documentation 
 
@@ -40,14 +42,13 @@ The basic EIP prototype is a docker container which includes:
 <!--- img source :
       https://docs.google.com/drawings/d/10RUFpz28TDxJ-PgvMalNpm3tdtjR0NooK93X4GYNeI8 
       export the slide as .png, and upload in docs/images with the same name --->
-
-<!---
-<center><img src="./images/basic-EIP-testbed.png" width="610"></center>
----> 
-
 <!---
 ![basic-EIP-testbed.png](<./images/basic-EIP-testbed.png>)
 ---> 
+
+
+<center><img src="./images/basic-EIP-testbed.png" width="610"></center> 
+
 
 A more advanced testbed is a Virtual Machine (available as an .ova image for Virtualbox and VMware hypervisors). In the Virtual Machine it is possible to deploy an emulated network with 8 routers and 15 hosts. The 8 routers emulate an IPv6 backbone with dynamic routing (ISIS protocol). Routers and hosts in the emulated network can execute the EIP prototype as needed to demonstrate complex scenarios involving several nodes.
 
@@ -55,11 +56,7 @@ A more advanced testbed is a Virtual Machine (available as an .ova image for Vir
       https://www.draw.io/?page-id=J9w6RV8opG_2WJOp4QM1&scale=auto#G1BnzbsuEpvA3uBNfi-l9xWqG1N0aWO_Nh
       export the slide as .png, and upload in docs/images with the same name --->
 
-<!---
 <center><img src="./images/hpsr2020-tutorial-with-control-plane.png" width="610"></center>
----> 
-
-
 
 
 ### Github page
