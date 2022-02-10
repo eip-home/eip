@@ -46,14 +46,13 @@ The basic EIP prototype is a docker container which includes:
 ![basic-EIP-testbed.png](<./images/basic-EIP-testbed.png>)
 ---> 
 
-<center><img src="./images/basic-EIP-testbed.png" width="610"></center> 
+<center><img src="https://docs.google.com/drawings/d/e/2PACX-1vRfqnSlb0n8yimc4XHUEBHkQoZykFunajJeiAZoSuArt0wDYQUeA6HelRWCCsDA9fgU-fXmJouu7kr6/pub?w=776&h=330" width="610"></center> 
 
 A more advanced testbed is a Virtual Machine (available as an .ova image for Virtualbox and VMware hypervisors). In the Virtual Machine it is possible to deploy an emulated network with 8 routers and 15 hosts. The 8 routers emulate an IPv6 backbone with dynamic routing (ISIS protocol). Routers and hosts in the emulated network can execute the EIP prototype as needed to demonstrate complex scenarios involving several nodes.
 
 <!--- img source :
       https://www.draw.io/?page-id=J9w6RV8opG_2WJOp4QM1&scale=auto#G1BnzbsuEpvA3uBNfi-l9xWqG1N0aWO_Nh
       export the slide as .png, and upload in docs/images with the same name --->
-
 <center><img src="./images/hpsr2020-tutorial-with-control-plane.png" width="610"></center>
 
 
