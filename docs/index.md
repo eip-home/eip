@@ -21,7 +21,7 @@ Find [here](https://tinyurl.com/eip4coinrg) a presentation about EIP. This prese
 
 An informal Special Interest Group is active to discuss EIP use cases, architecture and protocol specifications. A mailing list and a wiki have been setup.
 
-The mailing list address is [eip@postino.cnit.it](mailto:eip@cnit.it). Subscribe to the mailing list and access the list archives [here](http://postino.cnit.it/cgi-bin/mailman/listinfo/eip).
+The mailing list address is [eip@cnit.it](mailto:eip@cnit.it). Subscribe to the mailing list and access the list archives [here](http://postino.cnit.it/cgi-bin/mailman/listinfo/eip).
 
 The wiki is available [here](https://github.com/eip-home/eip/wiki)
 
