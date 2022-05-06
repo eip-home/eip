@@ -2,7 +2,7 @@
 
 EIP extends the functionality of IPv6 layer to support the requirements of future Internet services / 6G networks.
 
-In a nutshell, IPv6 nodes can read/write EIP information in packet headers to implement different use cases (e.g. contractual networking, deterministic networking, network slicing).
+In a nutshell, IPv6 nodes can read/write EIP information in packet headers to support different use cases (e.g. contractual networking, deterministic networking, network slicing).
 
 EIP provides a common solution which can be tailored for the different use cases. Each use case will have its own specific architectural aspects and protocol specifications. The following figure shows potential use cases for EIP.
 
