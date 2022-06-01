@@ -10,9 +10,14 @@ EIP provides a common solution which can be tailored for the different use cases
 ![EIP use cases](<https://docs.google.com/drawings/d/e/2PACX-1vSltSccUQoU0ttVh_yf-werFMzx65vlne-uAJlZpjDent1-g9Yr9qoOCYB0EkhzJ3ZFi2ANvw6_m7P4/pub?w=642
 &h=447>)
 ![EIP use cases](<https://docs.google.com/drawings/d/e/2PACX-1vSltSccUQoU0ttVh_yf-werFMzx65vlne-uAJlZpjDent1-g9Yr9qoOCYB0EkhzJ3ZFi2ANvw6_m7P4/pub?w=449&h=313>)
---->
 
 <center><img src="https://docs.google.com/drawings/d/e/2PACX-1vSltSccUQoU0ttVh_yf-werFMzx65vlne-uAJlZpjDent1-g9Yr9qoOCYB0EkhzJ3ZFi2ANvw6_m7P4/pub?w=395&amp;h=262"></center>
+
+https://docs.google.com/drawings/d/1ctZaFKg3NlQ3J1ux1yz0nQMAYlKPj_ZzqL-1X3w97SA/edit
+
+--->
+
+<center><img src="https://docs.google.com/drawings/d/e/2PACX-1vRzyk0pEHVKmhhyfn6C396nUHrKkmnv4ZFWBaRq2QLJWpyiZ4p-GTBmn76rKHIxlC0nrUiiXDeYaiLn/pub?w=395&amp;h=262"></center>
 
 Find [here](https://github.com/eip-home/eip/blob/main/tech-docs/eip-paper.pdf) a submitted paper presenting the EIP solution:
 
