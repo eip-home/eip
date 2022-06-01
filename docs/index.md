@@ -2,7 +2,7 @@
 
 EIP extends the functionality of IPv6 layer to support the requirements of future Internet services / 6G networks.
 
-In a nutshell, IPv6 nodes can read/write EIP information in packet headers to support different use cases (e.g. contractual networking, deterministic networking, network slicing).
+In a nutshell, IPv6 nodes can read/write EIP information in packet headers to support different use cases (e.g. advanced monitoring, semantic routing, deterministic networking, slicing... ).
 
 EIP provides a common solution which can be tailored for the different use cases. Each use case will have its own specific architectural aspects and protocol specifications. The following figure shows potential use cases for EIP.
 
@@ -14,7 +14,12 @@ EIP provides a common solution which can be tailored for the different use cases
 
 <center><img src="https://docs.google.com/drawings/d/e/2PACX-1vSltSccUQoU0ttVh_yf-werFMzx65vlne-uAJlZpjDent1-g9Yr9qoOCYB0EkhzJ3ZFi2ANvw6_m7P4/pub?w=395&amp;h=262"></center>
 
-Find [here](https://tinyurl.com/eip4coinrg) a presentation about EIP. This presentation will be given @IRTF COIN RG interim meeting on Thu 2022-02-10 16.30 CET / 10.30 EST. 
+Find [here](https://github.com/eip-home/eip/blob/main/tech-docs/eip-paper.pdf) a submitted paper presenting the EIP solution:
+
+S.Salsano, G. Sidoretti, C. Scarpitta, H. ElBackoury, D. Lopez, L. Bracciale, P. Loreti,
+"Supporting Future Internet Services with Extensible In-band Processing (EIP)", submitted paper under revision.
+
+Find [here](https://tinyurl.com/eip4coinrg) a presentation about EIP. This presentation has been given @IRTF COIN RG interim meeting on Thu 2022-02-10 16.30 CET / 10.30 EST. 
 
 
 ### Special Interest Group on EIP
@@ -27,7 +32,7 @@ The wiki is available [here](https://github.com/eip-home/eip/wiki)
 
 ### EIP documentation 
 
-Work in progress: EIP problem statement, use cases, architecture, protocol specifications.
+Work in progress: EIP use cases, architecture, protocol specifications.
 
 The status of the work is available [here](https://github.com/eip-home/eip/wiki/EIP-documentation)
 
