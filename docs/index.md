@@ -58,6 +58,7 @@ The basic EIP prototype is a docker container which includes:
 - the development environment for EIP 
 - a testbed with 4 “namespaces” that implement EIP Packet generator/dissector and EIP aware router
 
+The topology that is provided for the experiments and tests is shown hereafter.
 
 <!--- img source :
       https://docs.google.com/drawings/d/10RUFpz28TDxJ-PgvMalNpm3tdtjR0NooK93X4GYNeI8 
