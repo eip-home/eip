@@ -19,10 +19,13 @@ https://docs.google.com/drawings/d/1ctZaFKg3NlQ3J1ux1yz0nQMAYlKPj_ZzqL-1X3w97SA/
 
 <center><img src="https://docs.google.com/drawings/d/e/2PACX-1vRzyk0pEHVKmhhyfn6C396nUHrKkmnv4ZFWBaRq2QLJWpyiZ4p-GTBmn76rKHIxlC0nrUiiXDeYaiLn/pub?w=395&amp;h=262"></center>
 
-Find [here](https://github.com/eip-home/eip/blob/main/tech-docs/eip-paper.pdf) a submitted paper presenting the EIP solution:
+### Scientific papers on EIP
 
-S.Salsano, G. Sidoretti, C. Scarpitta, H. ElBackoury, D. Lopez, L. Bracciale, P. Loreti,
-"Supporting Future Internet Services with Extensible In-band Processing (EIP)", submitted paper under revision.
+S.Salsano, G.Sidoretti, C.Scarpitta, H.ElBakoury, D. Lopez, L.Bracciale, P.Loreti,
+“Supporting Future Internet Services with Extensible In-band Processing (EIP)”,
+accepted to 1st ACM SIGCOMM Workshop on Future of Internet Routing & Addressing (FIRA) [download pdf](https://tinyurl.com/eip-paper )
+
+### Presentations on EIP
 
 Find [here](https://tinyurl.com/eip4coinrg) a presentation about EIP. This presentation has been given @IRTF COIN RG interim meeting on Thu 2022-02-10 16.30 CET / 10.30 EST. 
 
