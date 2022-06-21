@@ -46,20 +46,33 @@ The status of the work is available [here](https://github.com/eip-home/eip/wiki/
 
 ### EIP prototypes and testbeds
 
-An open source prototype of EIP for Linux (based on eBPF) is under development and will be soon available. The EIP prototype builds upon the [HIKe/eCLAT framework](https://hike-eclat.readthedocs.io/).
+An open source prototype of EIP for Linux (based on eBPF) is under development and is available.
+It is based on two main components:
+
+1) Scapy based packet generator / dissector
+2) EIP aware router
+
+The EIP aware router is based on eBPF/XDP. It builds upon the [HIKe/eCLAT framework](https://hike-eclat.readthedocs.io/).
 
 The basic EIP prototype is a docker container which includes:
-- the development environment for EIP based on HIKe/eCLAT
-- a minimal testbed with a Traffic Generator (TG) node and a "System Under Test" (SUT) node that implements EIP functionality.
+- the development environment for EIP 
+- a testbed with 4 “namespaces” that implement EIP Packet generator/dissector and EIP aware router
+
 
 <!--- img source :
       https://docs.google.com/drawings/d/10RUFpz28TDxJ-PgvMalNpm3tdtjR0NooK93X4GYNeI8 
       export the slide as .png, and upload in docs/images with the same name --->
 <!---
 ![basic-EIP-testbed.png](<./images/basic-EIP-testbed.png>)
----> 
 
 <center><img src="https://docs.google.com/drawings/d/e/2PACX-1vRfqnSlb0n8yimc4XHUEBHkQoZykFunajJeiAZoSuArt0wDYQUeA6HelRWCCsDA9fgU-fXmJouu7kr6/pub?w=776&h=330" width="610"></center> 
+
+---> 
+
+<center><img src="https://docs.google.com/drawings/d/e/2PACX-1vSRh_kXeinLz-iBbCwUXJ6_B3vTdywlMUmLE6fdv3mgmY4lfZG5ImUclpR6fHVyTeWk6RrNqyWiZUPZ/pub?w=862&h=167" width="610"></center> 
+
+
+
 
 A more advanced testbed is a Virtual Machine (available as an .ova image for Virtualbox and VMware hypervisors). In the Virtual Machine it is possible to deploy an emulated network with 8 routers and 15 hosts. The 8 routers emulate an IPv6 backbone with dynamic routing (ISIS protocol). Routers and hosts in the emulated network can execute the EIP prototype as needed to demonstrate complex scenarios involving several nodes.
 
