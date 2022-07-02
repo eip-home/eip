@@ -15,6 +15,9 @@ EIP provides a common solution which can be tailored for the different use cases
 
 https://docs.google.com/drawings/d/1ctZaFKg3NlQ3J1ux1yz0nQMAYlKPj_ZzqL-1X3w97SA/edit
 
+REVISED VERSION:
+https://docs.google.com/drawings/d/1eJshyo31ii9Qk8Ic8NMQ1ZlNrErw3Y3Z_7Dc4dRsb98/edit
+
 --->
 
 <center><img src="https://docs.google.com/drawings/d/e/2PACX-1vRzyk0pEHVKmhhyfn6C396nUHrKkmnv4ZFWBaRq2QLJWpyiZ4p-GTBmn76rKHIxlC0nrUiiXDeYaiLn/pub?w=395&amp;h=262"></center>
