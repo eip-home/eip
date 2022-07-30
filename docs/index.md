@@ -44,11 +44,11 @@ Internet Draft [draft-eip-arch](https://datatracker.ietf.org/doc/draft-eip-arch/
 
 S.Salsano, H.ElBakoury, D. Lopez,\
 “Extensible In-band Processing (EIP) Use Cases",\
-https://eip-home.github.io/use-cases/draft-eip-use-cases.txt
+in preparation [draft-eip-use-cases.txt](https://eip-home.github.io/use-cases/draft-eip-use-cases.txt)
 
 S.Salsano, G.Sidoretti, C.Scarpitta, H.ElBakoury,\
 “Extensible In-band Processing (EIP) Headers Definitions”,\
-https://eip-home.github.io/eip-headers/draft-eip-headers-definitions.html 
+in preparation [draft-eip-headers-definitions.html](https://eip-home.github.io/eip-headers/draft-eip-headers-definitions.html)
 
 
 ### Special Interest Group on EIP
