@@ -36,6 +36,20 @@ Presentation given at IETF RTGWG interim meeting on June 21st, 2022
 [Extensible In-band Processing (EIP) @ IRTF COIN RG](https://tinyurl.com/eip4coinrg)\
 Presentation given at IRTF COIN RG interim meeting on February 10th 2022.
 
+### EIP documents 
+
+S.Salsano, H.ElBakoury, D.Lopez,\
+“Extensible In-band Processing (EIP) Architecture and Framework”,\
+Internet Draft [draft-eip-arch](https://datatracker.ietf.org/doc/draft-eip-arch/)
+
+S.Salsano, H.ElBakoury, D. Lopez,\
+“Extensible In-band Processing (EIP) Use Cases",\
+https://eip-home.github.io/use-cases/draft-eip-use-cases.txt
+
+S.Salsano, G.Sidoretti, C.Scarpitta, H.ElBakoury,\
+“Extensible In-band Processing (EIP) Headers Definitions”,\
+https://eip-home.github.io/eip-headers/draft-eip-headers-definitions.html 
+
 
 ### Special Interest Group on EIP
 
@@ -45,19 +59,14 @@ The mailing list address is [eip@cnit.it](mailto:eip@cnit.it). Subscribe to the 
 
 The wiki is available [here](https://github.com/eip-home/eip/wiki)
 
-### EIP documentation 
-
-Work in progress: EIP use cases, architecture, protocol specifications.
-
-The status of the work is available [here](https://github.com/eip-home/eip/wiki/EIP-documentation)
 
 ### EIP prototypes and testbeds
 
 An open source prototype of EIP for Linux (based on eBPF) is under development and is available.
 It is based on two main components:
 
-1) Scapy based packet generator / dissector
-2) EIP aware router
+1. Scapy based packet generator / dissector
+1. EIP aware router
 
 The EIP aware router is based on eBPF/XDP. It builds upon the [HIKe/eCLAT framework](https://hike-eclat.readthedocs.io/).
 
