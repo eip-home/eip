@@ -30,7 +30,11 @@ accepted to 1st ACM SIGCOMM Workshop on Future of Internet Routing & Addressing 
 
 ### Presentations on EIP
 
-Find [here](https://tinyurl.com/eip4coinrg) a presentation about EIP. This presentation has been given @IRTF COIN RG interim meeting on Thu 2022-02-10 16.30 CET / 10.30 EST. 
+[Extensible In-band Processing (EIP) @ IETF RTGWG](https://tinyurl.com/eip-interim-rtgwg-2022-06)\
+Presentation given at IETF RTGWG interim meeting on June 21st, 2022
+
+[Extensible In-band Processing (EIP) @ IRTF COIN RG](https://tinyurl.com/eip4coinrg)\
+Presentation given at IRTF COIN RG interim meeting on February 10th 2022.
 
 
 ### Special Interest Group on EIP
